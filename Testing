@@ -1,0 +1,9 @@
+# Testing
+
+The following file will contain informaiton about testing since version v16/v17
+
+Whereas Karma is being depracted and replacements are:
+* Modern Web - browser-like
+* Jest - browseless
+
+Will includes experience of other developers - reddit, stackoverflow, etc..
