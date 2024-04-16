@@ -50,3 +50,5 @@ I pulled information from multiple sources:
 
 ## Interesting feedback of migraiton
 * https://www.reddit.com/r/angular/comments/17t085u/have_you_switched_away_from_karma_and_what_did/
+
+As for now, I will stay with Jasmine+Karma (currently on project A v15) and then later migrate further, it there is reliable upgrade path(if I ever get there ..)
