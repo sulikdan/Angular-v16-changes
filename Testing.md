@@ -28,6 +28,7 @@ Features(Pros-Cons):
 I pulled information from multiple sources:
 * https://dev.to/konnorrogers/why-jest-is-not-for-me-46c5 ( react app view on the jest - take look at comments)
 * https://dev.to/this-is-angular/angular-testing-in-2023-past-present-and-future-j5m
+https://blog.angular.io/moving-angular-cli-to-jest-and-web-test-runner-ef85ef69ceca
 
 
 ## Interesting feedback of migraiton
