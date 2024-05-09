@@ -1,0 +1,25 @@
+# Data generation
+
+One of the hot-topics, how to develop software project is to generate test data -> usually people use production data, however then comes into play GDPR and anonymization.
+Additionally, we have issue with data not being in line with exception(though, if this happens good luck with production).
+
+Over the stack-overflow suggestion there are:
+* https://generatedata.com/ - account required
+* https://www.mockaroo.com/
+* http://www.red-gate.com/products/SQL_Data_Generator/index.htm - commercial (not free)
+* https://www.upscene.com/products.adg.index.php
+* https://github.com/FINRAOS/DataGenerator
+* https://databrickslabs.github.io/dbldatagen/public_docs/APIDOCS.html
+
+
+# Intellij Test Data plugin
+So far I got to Intellij plugin - Test data, good reviews.
+
+## Features
+To generate:
+* Literal - In code value generation
+  * possibility to use custom dictionary instead of predefined
+  * custom regex generator
+* Bulk data
+
+goona try it and will report results of it.
